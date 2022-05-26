@@ -20,3 +20,7 @@ p {
     font-size: large;
     
 }
+body > h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
