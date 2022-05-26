@@ -1,3 +1,22 @@
 body {
-    background: blue;
+    background: rgb(139, 1, 29);
+}
+  h1#mainHeader{
+      text-align: center;
+      color:gold;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      
+}
+  h2 {
+    text-align: center;
+    padding-top: 5px;
   }
+  h1#subHeaders{
+      text-align: center;
+      color: silver;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p {
+    font-size: large;
+    
+}
