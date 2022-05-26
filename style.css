@@ -85,7 +85,7 @@ body > h2 {
 
 .wrapper .sidebar ul li a:hover .icon,
 .wrapper .sidebar ul li a.active .icon{
-    color: #ffffff;
+    color: #f30b0b;
 }
 
 .wrapper .sidebar ul li a:hover:before,
@@ -109,11 +109,11 @@ body > h2 {
 
 .wrapper .section .top_navbar .arrow a{
     font-size: 28px;
-    color: #f4fbff;
+    color: #ffffff;
 }
 
 .wrapper .section .top_navbar .arrow a:hover{
-    color: #a2ecff;
+    color: #f30b0b;
 }
 body.active .wrapper .sidebar{
     left: -225px;
