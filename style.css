@@ -10,18 +10,22 @@
 body {
     background: rgb(139, 1, 29);
 }
-  h1#mainHeader{
+h1#mainHeader{
       text-align: center;
       color:gold;
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       
 }
-  h2 {
+body > div > div.act2 > h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2 {
     text-align: center;
     padding-top: 5px;
     line-height: 10;
-  }
-  h1#subHeaders{
+}
+h1#subHeaders{
       text-align: center;
       color: silver;
       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -30,12 +34,16 @@ body > h1{
     text-align: center;
 }
 p {
+    padding-left: 20%;
+    padding-right: 20%;
+    text-indent: 10%;
     font-size: large;
-    
 }
 body > h2 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
+}
+body > div > div:nth-child(6) > h2 > img{
+    margin-top: 100px;
 }
 .wrapper .sidebar{
     background: deepskyblue;
